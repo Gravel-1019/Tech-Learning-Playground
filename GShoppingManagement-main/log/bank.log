@@ -1,0 +1,10 @@
+2023-07-23 15:58:37 MainThread:8569110848 [bank_logger] INFO [/Users/gravel/project/sm/interface/bank_interface.py:26] 
+2023-07-23 15:58:37用户Gravel充值1111元！
+当前余额为1111元！
+2023-07-23 15:58:57 MainThread:8569110848 [bank_logger] INFO [/Users/gravel/project/sm/interface/bank_interface.py:47] 
+2023-07-23 15:58:57用户Gravel提现500元！
+手续费为50.0元！
+当前余额为661.0元！
+
+2023-07-23 15:59:18 MainThread:8569110848 [bank_logger] INFO [/Users/gravel/project/sm/interface/bank_interface.py:102] 
+2023-07-23 15:59:18用户Gravel消费1元，当前余额为660.0元
